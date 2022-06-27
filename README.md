@@ -4,5 +4,5 @@
 Typical time to completion is 30 mins to two hours.
 
 1. Using [Anchor](https://github.com/project-serum/anchor), implement a program that can sequentially generate and store fibonacci numbers. 
-2. Make a client using typescript that can read those numbers.
-3. Quantify how many numbers your client can read / generate per second
+2. Make a client using typescript or rust that can read those numbers.
+3. Quantify how many numbers your client can read / generate from the on chain program per second
